@@ -2,14 +2,14 @@
 
 ***
 <p align="center">
-🎉 Tối giản giải thích các mẫu thiết kế! 🎉
+🎉 Giải thích các mẫu thiết kế tối giản ! 🎉
 </p>
 <p align="center">
 A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the <i>simplest</i> way possible.
 </p>
 ***
 
-🚀 Introduction
+🚀 Giới thiệu
 =================
 
 Design patterns are solutions to recurring problems; **guidelines on how to tackle certain problems**. They are not classes, packages or libraries that you can plug into your application and wait for the magic to happen. These are, rather, guidelines on how to tackle certain problems in certain situations.
